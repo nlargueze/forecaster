@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#11ff00",
+      "titleBar.inactiveBackground": "#a9d0a6",
+      "titleBar.activeForeground": "#000"
+    },
+    "rust-analyzer.linkedProjects": ["backend/Cargo.toml"],
+    "rust-analyzer.checkOnSave.command": "clippy"
+  }
+}
